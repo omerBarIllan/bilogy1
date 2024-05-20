@@ -15,7 +15,7 @@ public class MatrixPainter {
         });
     }
 }
-
+///asdasdad
 class MatrixPanel extends JPanel {
     private static final int CELL_SIZE = 30;
     private final int rows;
